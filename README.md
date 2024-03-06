@@ -1,3 +1,3 @@
 # POO
 . Playlist Usada para Criação: https://www.youtube.com/playlist?list=PLJ8PYFcmwFOxtJS4EZTGEPxMEo4YdbxdQ
-. Ide usada para criação: Visual Estudio Code.
+. Ide usada para criação: Visual studio Code.
