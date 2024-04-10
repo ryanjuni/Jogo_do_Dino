@@ -5,4 +5,4 @@
 Linguagem de Programação usada :
 Python
 
-# imagem do Projeto :
+# imagem do Dino:
